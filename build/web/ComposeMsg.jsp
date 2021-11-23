@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Compose New Mail</title>
+        <title>Compose New Mail - Intramail</title>
         <script lang="javascript" type="text/javascript">
             function fun(btn)
             {
